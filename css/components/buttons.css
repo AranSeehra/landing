@@ -1,0 +1,15 @@
+.btn-primary {
+  padding: 16px 36px;
+  color: white;
+  border-radius: 50px;
+  background: #1CDD86;
+  margin-top: 10px;
+  display: inline block;
+}
+
+.btn-secondary {
+  border: 1px solid #1EDD88;
+  padding: 8px 16px;
+  border-radius: 50px;
+  color: #1EDD88;
+}
